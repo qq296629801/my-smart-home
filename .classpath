@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="src/mysql-connector-java-5.1.24-bin.jar"/>
+	<classpathentry kind="lib" path="src/junit.jar"/>
+	<classpathentry kind="lib" path="src/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="src/javax.mail-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="src/javax.mail-1.5.6.jar"/>
+	<classpathentry kind="lib" path="src/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="src/pi4j-device.jar"/>
+	<classpathentry kind="lib" path="src/pi4j-gpio-extension.jar"/>
+	<classpathentry kind="lib" path="src/pi4j-service.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
